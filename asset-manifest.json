@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bowling-scorer/static/css/main.1f56a9c6.css",
+    "main.js": "/bowling-scorer/static/js/main.1db88d2a.js",
+    "static/js/787.aee49a6b.chunk.js": "/bowling-scorer/static/js/787.aee49a6b.chunk.js",
+    "static/media/bowlingLogo.jpg": "/bowling-scorer/static/media/bowlingLogo.2d752ffc803d3a5f3659.jpg",
+    "index.html": "/bowling-scorer/index.html",
+    "main.1f56a9c6.css.map": "/bowling-scorer/static/css/main.1f56a9c6.css.map",
+    "main.1db88d2a.js.map": "/bowling-scorer/static/js/main.1db88d2a.js.map",
+    "787.aee49a6b.chunk.js.map": "/bowling-scorer/static/js/787.aee49a6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f56a9c6.css",
+    "static/js/main.1db88d2a.js"
+  ]
+}
