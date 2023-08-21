@@ -20,9 +20,9 @@ class BowlingScorer {
     pinsUp = () => {
         const scoreData = this.score();
         let pinsUp = 10;
-        scoreData.forEach(o => {
-            if (o.pinsUp !== null && !isNaN(o.pinsUp)) {
-                pinsUp = o.pinsUp;
+        scoreData.forEach(obj => {
+            if (obj.pinsUp !== null && !isNaN(obj.pinsUp)) {
+                pinsUp = obj.pinsUp;
             }
         });
         return pinsUp;
